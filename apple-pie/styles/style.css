@@ -7,7 +7,7 @@
 
 :root {
   font-size: 10px;
-  line-height: 1.2rem;
+  line-height: 2.5rem;
   font-family: "Poppins", sans-serif;
 }
 
@@ -18,10 +18,27 @@ h1 {
 }
 
 .hero {
-  height: 60vh;
+  height: 70vh;
   background: url("../images/apple-pie.jpg") center center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
   color: white;
+  margin-bottom: 2rem;
+}
+
+/* general styles */
+.container-default {
+  max-width: 85rem;
+  padding: 2rem 0;
+  margin: 0 auto;
+}
+
+.text-lead {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+p {
+  margin-bottom: 2rem;
 }
