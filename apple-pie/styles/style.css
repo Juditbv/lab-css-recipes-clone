@@ -90,7 +90,8 @@ ul.dash-list li::before {
 
 hr {
   border: 1.5px solid #aaaaaa;
-  margin-top: 2rem;
+  max-width: 85rem;
+  margin: 0 auto;
 }
 
 .container-default ul {
