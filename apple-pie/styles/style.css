@@ -84,10 +84,6 @@ ul.dash-list li::before {
   font-weight: 300;
 }
 
-.dflex {
-  display: flex;
-}
-
 hr {
   border: 1.5px solid #aaaaaa;
   max-width: 85rem;
