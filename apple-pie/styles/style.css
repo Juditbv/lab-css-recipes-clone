@@ -74,6 +74,10 @@ ul.dash-list li::before {
   margin: 2rem auto;
 }
 
+.padding-left-small {
+  padding-left: 1.5rem;
+}
+
 .text-lead {
   font-size: 2rem;
   font-weight: 300;
