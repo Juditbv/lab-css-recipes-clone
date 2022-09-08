@@ -56,16 +56,7 @@ h3 {
 ul.dash-list {
   padding-inline-start: 0;
   padding-left: 0;
-}
-
-ul.dash-list li {
-  list-style-type: none;
-  padding-left: 0;
-}
-
-ul.dash-list li::before {
-  content: "-";
-  margin-right: 1.5rem;
+  list-style-type: "-  ";
 }
 
 /* GENERAL STYLES */
