@@ -30,7 +30,7 @@ h3 {
 
 /* HERO */
 .hero {
-  height: 70vh;
+  height: 80vh;
   background: url("../images/apple-pie.jpg") center center/cover;
   display: flex;
   align-items: center;
