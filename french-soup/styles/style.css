@@ -59,10 +59,6 @@ ul.dash-list {
   list-style-type: "-  ";
 }
 
-ul.dash-list li {
-  margin-top: 0.5rem;
-}
-
 /* GENERAL STYLES */
 .container-default {
   max-width: 85rem;
@@ -91,5 +87,9 @@ hr {
 }
 
 .container-default ul li {
+  margin-top: 0.5rem;
+}
+
+li {
   margin-top: 0.5rem;
 }
