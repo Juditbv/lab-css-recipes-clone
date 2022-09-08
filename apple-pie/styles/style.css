@@ -25,6 +25,7 @@ h1 {
 h3 {
   font-size: 2rem;
   font-weight: 400;
+  margin-bottom: 2rem;
 }
 /* end headings */
 
@@ -40,7 +41,13 @@ h3 {
 
 .recipe-info-img {
   width: 100%;
-  padding: 0 25%;
+  padding: 0 15%;
+}
+
+@media (min-width: 640px) {
+  .recipe-info-img {
+    padding: 0 25%;
+  }
 }
 
 /* general styles */
@@ -64,7 +71,7 @@ p {
 }
 
 hr {
-  border: 2px solid #aaaaaa;
+  border: 1.5px solid #aaaaaa;
 }
 
 .container-default ul {
