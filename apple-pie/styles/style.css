@@ -7,7 +7,7 @@
 
 :root {
   font-size: 10px;
-  line-height: 1.2;
+  line-height: 1.4;
   font-family: "Poppins", sans-serif;
 }
 
@@ -43,6 +43,7 @@ h3 {
 .recipe-info-img {
   width: 100%;
   padding: 0 15%;
+  margin-top: 2rem;
 }
 
 @media (min-width: 640px) {
@@ -85,10 +86,6 @@ ul.dash-list li::before {
 
 .dflex {
   display: flex;
-}
-
-p {
-  margin-bottom: 2rem;
 }
 
 hr {
